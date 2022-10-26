@@ -66,7 +66,7 @@ In this project used the n-tier architecture
 ## :hammer_and_wrench:  Technologies
 
 - MySQL 8.0.30
-- Maven 3.8.0
+- Apache Maven 3.8.5
 - Java 11 
 - Hibernate
 - Spring Core
@@ -74,7 +74,6 @@ In this project used the n-tier architecture
 - Spring Web MVC
 - Spring Security
 - Apache TomCat 9.0.50
-- Apache Maven 3.8.5
 
 ## :gear:  How to launch
 
