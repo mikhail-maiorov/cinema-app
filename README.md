@@ -3,12 +3,12 @@
 ## :key:  About
 
 This application represent a cinema ticket selling service.
-The application is intended for use by cinema halls admins and their visitors.
+The application is intended for use by cinema halls admins and their user.
 
 ## :mag:  Details
 
-The visitor can register, add a ticket to the cart, buy a ticket and get information about the session. 
-Visitors have the opportunity to see what films are shown in a particular cinema, with the ability to view 
+The user can register, add a ticket to the cart, buy a ticket and get information about the session. 
+Users have the opportunity to see what films are shown in a particular cinema, with the ability to view 
 descriptions of films and descriptions of cinema halls.
 
 Admins have the opportunity to add a cinema halls, a movie and a movie session. Can view visitor information. 
@@ -25,9 +25,9 @@ In this project used the n-tier architecture
 
 - __GET__
   - log in `GET: /login`
-  - Logout `GET: /logout`
+  - logout `GET: /logout`
 - __POST__
-  - Register `POST: /register` 
+  - register `POST: /register` 
 
 
 #### __ADMIN can:__
