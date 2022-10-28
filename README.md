@@ -47,7 +47,7 @@ In this project used the n-tier architecture
 - __DELETE:__
     - certain movie session `DELETE: /movie-sessions/{id}`
 
-#### __VISITOR/USER can:__
+#### __USER can:__
 
 - __GET:__
   - orders `GET: /orders`
