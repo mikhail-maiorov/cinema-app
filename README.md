@@ -11,7 +11,7 @@ The user can register, add a ticket to the cart, buy a ticket and get informatio
 Users have the opportunity to see what films are shown in a particular cinema, with the ability to view 
 descriptions of films and descriptions of cinema halls.
 
-Admins have the opportunity to add a cinema halls, a movie and a movie session. Can view visitor information. 
+Admins have the opportunity to add a cinema halls, a movie and a movie session. Can view user's information. 
 
 ## :scroll:  Project Structure
 
